@@ -1,0 +1,5 @@
+.env
+trading_venv/
+data/
+data_extraction/Error_list.txt
+**/.ipynb_checkpoints/

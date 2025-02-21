@@ -1,0 +1,29 @@
+# Basic libraries
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+pandas_datareader
+scipy
+scikit-learn
+tables
+
+# Data extraction
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
+selenium
+python-dotenv
+
+# Finance libraries
+yfinance==0.2.30
+ta
+sec-edgar-downloader
+edgartools
+
+# ML libraries
+tensorflow==2.16.1
+sentence-transformers
+langchain
+langchain_groq
